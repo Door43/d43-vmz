@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vmz:home|Door43 (vmz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vmz|d43-vmz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vmz/archive/master.zip|d43-vmz.zip]]
+
+**Recent Changes**
+{{changes>ns = vmz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vmz|Ethnologue data]]
+
